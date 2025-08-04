@@ -4,6 +4,7 @@
         "author":"Jan",
         "description":"A simple project for learning npm and package.json with freeCodeCamp",
         "keywords":["freecodecamp","node","npm","backend","project"],
+        "license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
